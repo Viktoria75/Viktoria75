@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=69F74E&repeat=false&width=435&lines=Hi%2C+I'm+Viktoria+%F0%9F%91%8B)](https://git.io/typing-svg)
-
 ### 🎓 3rd Year Information Systems Student @ FMI, Sofia University
 
 <p align="left">
