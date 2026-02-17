@@ -9,17 +9,23 @@
 ---
 
 ### 💫 About Me
-- 🏫 Currently studying **Information Systems** at the **Faculty of Mathematics and Informatics, Sofia University**.
-- 💻 Deeply interested in **Full-Stack Development** and **Cloud Infrastructure**.
-- 🛠️ Currently focusing on mastering **DevOps workflows** and scalable architecture.
-- 🇧🇬 Based in Sofia, Bulgaria.
+- 🎓 Information Systems student with hands-on experience building **software projects**
+- 💻 Interested in **software development** (backend & full-stack) and how applications work end to end
+- 🧠 Learning about **APIs, databases, and application logic** through coursework and projects
+- ☁️ Familiar with **DevOps & cloud tooling**
+- 🇧🇬 Based in Sofia, Bulgaria
 
 ---
 
-### 🧩 Beyond the Code
-- 🏆 **Fun Fact:** I spent my high school years competing in **chess tournaments** - I love a good strategic challenge.
-- 🎾 **Interests:** When I'm not coding, you'll find me on the **tennis** court or playing **video games**.
-- 🤝 **Socializing:** I’m a huge fan of meeting new people and collaborating on team projects.
+## 🛠️ What I Work On
+I build **student and personal projects** that explore different parts of software development, including backend logic, full-stack applications, and maintaining good workflows.
+
+My focus is on:
+- writing clear, maintainable code
+- understanding how applications interact with databases and APIs
+- maintaining clean development workflows (version control, CI, Docker)
+
+*Pinned repositories below reflect coursework and personal projects across different stacks.*
 
 ---
 
@@ -34,19 +40,29 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🌐 Web Development
+#### 🌐 Backend & Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🗄️ Databases & Systems
+- Relational databases (SQL)
+- REST APIs
+- Basic Linux & networking concepts
+
 #### ☁️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-F3F4F5?style=for-the-badge&logo=argo&logoColor=EF7B4D)
+
+---
+
+### 🧩 Beyond the Code
+- 🏆 **Fun Fact:** I spent my high school years competing in **chess tournaments** - I love a good strategic challenge.
+- 🎾 **Interests:** When I'm not coding, you'll find me on the **tennis** court or playing **video games**.
+- 🤝 **Socializing:** I’m a huge fan of meeting new people and collaborating on team projects.
 
 
 <p align="center">
