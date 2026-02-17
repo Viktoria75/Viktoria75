@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ What I Work On
+### 🛠️ What I Work On
 I build **student and personal projects** that explore different parts of software development, including backend logic, full-stack applications, and maintaining good workflows.
 
 My focus is on:
