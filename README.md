@@ -1,4 +1,6 @@
-# Hi, I'm Viktoria 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Viktoria" alt="Typing SVG" />
+</div>
 ### 🎓 3rd Year Information Systems Student @ FMI, Sofia University
 
 <p align="left">
